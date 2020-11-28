@@ -2,7 +2,7 @@
 
 # XletterTickets
 
-[![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/yukihira)
+[![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/CJweKv8MBf)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
 
@@ -28,10 +28,10 @@ XletterTickets a beaucoup de fonctionnalités, **pour les système de support**:
 
 ## Links
 
-*   [Discord](https://discord.gg/yukihira)
+*   [Discord](https://discord.gg/CJweKv8MBf)
 *   [Github](https://github.com/KhdDev)
 
 ## Contribuant
 
 Avant de **créer un problème**, assurez-vous qu'il n'a pas déjà été signalé/suggéré.
-Et si vous avez une question, posez-la dans le [serveur Discord](https://discord.gg/yukihira).
+Et si vous avez une question, posez-la dans le [serveur Discord](https://discord.gg/CJweKv8MBf).
