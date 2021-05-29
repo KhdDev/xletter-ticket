@@ -9,7 +9,7 @@
 * Date de création: Crée le 28 août 2020
 * Date de mise en ligne Github: Le 29 octobre 2020
 
-XletterTickets est un bot Discord open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [Khd](https://github.com/KhdDev).  
+XletterTickets est un bot Discord open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [Apoo](https://github.com/apoow3b).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
 ### Les commandes
@@ -29,7 +29,7 @@ XletterTickets a beaucoup de fonctionnalités, **pour les système de support**:
 ## Links
 
 *   [Discord](https://discord.gg/CJweKv8MBf)
-*   [Github](https://github.com/KhdDev)
+*   [Github](https://github.com/apoow3b)
 
 ## Contribuant
 
